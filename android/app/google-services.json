@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204616320833",
+    "project_id": "todoyes",
+    "storage_bucket": "todoyes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204616320833:android:ad3b51c069db6b11b943c0",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204616320833-02dm76e52rs39phuiv51228h7u3ruonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWAY0qjBhjb-44O2c-5dRlGe1djcimkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204616320833-02dm76e52rs39phuiv51228h7u3ruonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
